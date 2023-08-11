@@ -425,7 +425,7 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        background: #000;
+        background-color: #000;
         /*background-image: url(img/phonebg.png);*/
     }
 
@@ -507,7 +507,7 @@ nav .fa-solid {
 @media only screen and (min-device-width: 428px) and (max-device-width: 926px) {
     #header {
         /*background-image: url(img/phonebg1.png);*/
-        background: #000;
+        background-color: #000;
     }
 
     .header-text {
