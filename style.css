@@ -505,11 +505,18 @@ nav .fa-solid {
 }
 
 @media only screen and (min-device-width: 428px) and (max-device-width: 926px) {
-    #header {
-        /*background-image: url(img/phonebg1.png);*/
-        background-color: #000;
+    body{
+        color: #080808;
     }
-
+    #header {
+        background-image: url(img/black Retro Vintage Film Music Event Invite Instagram Post.png);
+        border-radius: 25px;
+        width: 100%;
+    }
+/*     top is new */
+/*     #header{
+        background-color: #080808;
+    } */
     .header-text {
         margin-top: 100%;
         font-size: 16px;
