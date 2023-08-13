@@ -424,9 +424,6 @@ nav .fa-solid {
 }
 
 @media only screen and (max-width: 600px) {
-    body{
-        color: #080808;
-    }
     #header {
         background-image: url(img/IMG_5552.png);
         border-radius: 25px;
