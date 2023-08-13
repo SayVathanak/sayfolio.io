@@ -417,12 +417,8 @@ nav .fa-solid {
 }
 
 @media only screen and (max-width: 600px) {
-    * {
-        margin: 0;
-        padding-bottom: 50px;
-        font-family: 'Lora', serif;
-        box-sizing: border-box;
-    }
+
+
 
     #course {
         margin: 0;
@@ -434,7 +430,7 @@ nav .fa-solid {
     }
 
     .header-text {
-        margin-top: 100%;
+        margin-top: 125%;
         font-size: 16px;
     }
 
