@@ -418,8 +418,6 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
 
-
-
     #course {
         margin: 0;
         padding: 0;
@@ -427,6 +425,7 @@ nav .fa-solid {
 
     #header {
         background-image: url(img/vangoghphbg.svg);
+        background-position: static;
     }
 
     .header-text {
