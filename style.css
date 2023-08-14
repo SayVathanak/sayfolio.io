@@ -135,6 +135,13 @@ nav ul li a:hover::after {
     color: white;
 }
 
+.Sub-title-abt {
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 5%;
+}
+
 .tab-title {
     display: flex;
     margin: 20px 0 40px;
@@ -473,6 +480,11 @@ nav .fa-solid {
 
     .Sub-title {
         font-size: 40px;
+    }
+
+    .Sub-title-abt {
+        font-size: 40px;
+        
     }
 
     .about-col-1,
