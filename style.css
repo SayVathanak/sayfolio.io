@@ -17,7 +17,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(img/vangoghdkbg.svg);
+    background-image: url(img/z5.svg);
     background-size: cover;
     background-position: center;
 }
@@ -107,7 +107,8 @@ nav ul li a:hover::after {
 /* About */
 #about {
     padding: 8px 0;
-    color: #ababab;
+    color: #ffffffe1;
+    line-height: 1.5;
 }
 
 .row {
@@ -431,7 +432,7 @@ nav .fa-solid {
     }
 
     #header {
-        background-image: url(img/vangoghphbg.svg);
+        background-image: url(img/phz5.svg);
         background-position: static;
     }
 
@@ -484,7 +485,7 @@ nav .fa-solid {
 
     .Sub-title-abt {
         font-size: 40px;
-        
+
     }
 
     .about-col-1,
